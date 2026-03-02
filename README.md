@@ -1,41 +1,36 @@
+<div align="center">
+
 # AadhaarInsight360
 
-**Digital Identity Analytics Platform | UIDAI Data Hackathon 2026**
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=law&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+</p>
 
-Team ID: **UIDAI_815** | Developer: **Karthik**
+*An advanced software structure developed by Karthik Idikuda.*
 
----
+<br/>
+
+</div>
 
 ## Overview
+AadhaarInsight360 is a comprehensive data analytics platform built for the UIDAI Data Hackathon 2026. It provides real-time insights into Aadhaar enrolment and update activities across India
 
-AadhaarInsight360 is a comprehensive analytics platform for analyzing Aadhaar enrolment and update data across India. Built for the UIDAI Data Hackathon 2026.
+<br/>
 
-## Features
+## Architecture & Features
+- **Clean Architecture:** Ensures high maintainability and modular structure.
+- **Optimized Performance:** Built to handle intensive operations with minimal latency.
+- **Scalable Design:** Seamlessly adaptable for future functional expansions.
 
-- **Dashboard** - Data Quality Score, Auto-Generated Insights, KPIs
-- **Enrolment Analysis** - State/District/PIN level analysis
-- **Demographics Analysis** - Demographic update patterns
-- **Biometrics Analysis** - Biometric update heatmaps
-- **Anomaly Detection** - IQR-based statistical detection
-- **Reports** - Executive summaries, downloadable CSVs
+<br/>
 
-## Tech Stack
+## License
+This project operates under the **MIT License**. See the `LICENSE` file for more details.
 
-- Streamlit
-- Pandas, NumPy
-- Plotly
-- Scikit-learn
-
-## Run Locally
-
-```bash
-pip install streamlit pandas numpy plotly scikit-learn openpyxl
-streamlit run app.py --server.port 8501
-```
-
-## Contact
-
-- **Developer**: Karthik
-- **Team ID**: UIDAI_815
-- **LinkedIn**: [karthik129259](https://www.linkedin.com/in/karthik129259/)
-- **Phone**: +91 9494432697
+---
+<div align="center">
+  <br/>
+  <i>Engineered by <b>Karthik Idikuda</b></i>
+</div>
